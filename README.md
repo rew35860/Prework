@@ -1,6 +1,6 @@
-# Pre-work - TipCal
+# Pre-work - Tip Calculator
 
-TipCal is a tip calculator application for iOS.
+Tip Calculator is a tip calculator application for iOS.
 
 Submitted by: Natcha Jengjirapas
 
